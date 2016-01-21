@@ -1,4 +1,5 @@
-<!--
+<?php
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 wait-for-latest-fansubs
 Copyright (C) 2015 vknkk
 
@@ -14,8 +15,8 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
--->
-<?php
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
 define('DIRS_PATH', 'G:/Anime/share/new');
 define('SCRIPT_PATH',  __DIR__.'/db.json');
 define('KG_URL_PRFX', 'http://fansubs.ru/');
